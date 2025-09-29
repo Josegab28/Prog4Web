@@ -1,0 +1,4 @@
+# Evitar que se suban dumps de configuración
+*.gitconfig
+git-config*.txt
+???
