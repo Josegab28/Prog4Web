@@ -1,0 +1,25 @@
+div { font-style: italic; }
+
+#music h2 { color: gray; }
+
+
+#personal-info img { 
+    border: 3px solid #333; 
+    border-radius: 10px; 
+}
+
+#music img { 
+    border: 3px solid #333; 
+    border-radius: 10px; 
+}
+
+body { background-color: beige; }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
